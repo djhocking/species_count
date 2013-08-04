@@ -1,0 +1,500 @@
+   79  PATH=/Applications/Julia.app/Contents/Resources/julia/bin:/usr/bin:/bin:/usr/sbin:/sbin FONTCONFIG_PATH=/Applications/Julia.app/Contents/Resources/julia/etc/fonts PKG_CONFIG_PATH=/Applications/Julia.app/Contents/Resources/julia/lib/pkgconfig GIT_EXEC_PATH=/Applications/Julia.app/Contents/Resources/julia/libexec/git-core GIT_TEMPLATE_DIR=/Applications/Julia.app/Contents/Resources/julia/share/git-core exec '/Applications/Julia.app/Contents/Resources/julia/bin/julia'
+   80  ls
+   81  cd pcfb
+   82  ls
+   83  cd scripts
+   84  ls
+   85  chmod u+x getrefs.sh
+   86  getrefs.sh
+   87  ..
+   88  cd..
+   89  cd ..
+   90  cd sandbox
+   91  getrefs.sh
+   92  chmod u+x getrefs.sh
+   93  dir.sh
+   94  getrefs.sh
+   95  cd ..
+   96  ls
+   97  cd scripts
+   98  getrefs.sh
+   99  dir.sh
+  100  shellscripts.sh
+  101  chmod u+x getrefs.sh
+  102  getrefs.sh
+  103  getrefs.sh > references.xml
+  104  ls
+  105  quit
+  106  exit
+  107  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/dnacalc-392356637.022.py.command ; exit;
+  108  ls
+  109  python
+  110  which python
+  111  cd ~/scripts
+  112  ls
+  113  chmod u+x dnacalc.py
+  114  dnacalc.py
+  115  dnacalc.py
+  116  dnacalc.py
+  117  dnacalc.py
+  118  dnacalc.py
+  119  quit() exit
+  120  exit() quit
+  121  ls
+  122  cd pcfb
+  123  ls
+  124  cd scripts
+  125  ls
+  126  dnacalc.py
+  127  dnacalc.py
+  128  dnacalc.py
+  129  python
+  130  cd
+  131  echo $PATH
+  132  nano .bash_profile
+  133  echo $PATH
+  134  edit .bash_profile
+  135  export PATH="$PATH:/usr/local/mysql/bin"
+  136  echo $PATH
+  137  mysql -u root
+  138  mysql -u root
+  139  python
+  140  ls
+  141  cd pcfb
+  142  ls
+  143  cd scripts
+  144  ls
+  145  dnacalc.py
+  146  dnacalc1.py
+  147  chmod u+x dnacalc.py
+  148  ls -l
+  149  dnacalc.py
+  150  cd
+  151  dnacalc.py
+  152  ls
+  153  scripts
+  154  cd scripts
+  155  ls
+  156  dnacalc.py
+  157  echo PATH
+  158  echo $PATH
+  159  which python
+  160  cd ~/scripts
+  161  chmod u+x dnacalc3.py
+  162  ls
+  163  dnacalc3.py
+  164  which python
+  165  python
+  166  dnacalc3.py
+  167  ls
+  168  scripts
+  169  cd scripts
+  170  ls
+  171  dir.sh
+  172  copier.sh
+  173  echo $PATH
+  174  cd
+  175  edit .bash_profile
+  176  echo $PATH
+  177  export PATH="$PATH:$HOME/scripts"
+  178  echo $PATH
+  179  ls
+  180  scripts
+  181  cd scripts
+  182  ls
+  183  dnacalc.py
+  184  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/proteincalc-393211616.534.py.command ; exit;
+  185  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/proteincalc-393211635.708.py.command ; exit;
+  186  dnacalc.py
+  187  dnacalc.py
+  188  chmod u+x proteincalc.py
+  189  cd scripts
+  190  chmod u+x proteincalc.py
+  191  ls -l
+  192  cd
+  193  proteincalc.py
+  194  proteincalc.py
+  195  proteincalc.py
+  196  proteincalc.py
+  197  proteincalc.py
+  198  proteincalc.py
+  199  python
+  200  tar -xzf ipython.tar.gz
+  201  cd Desktop
+  202  bash Anaconda-1.5.1-MacOSX-x86_64.sh
+  203  yes
+  204  cd Desktop
+  205  bash Anaconda-1.5.1-MacOSX-x86_64.sh
+  206  sudo enpkg enstaller
+  207  conda update conda
+  208  cd
+  209  conda update conda
+  210  quit()
+  211  conda update conda
+  212  conda update ipython
+  213  cd Desktop
+  214  ipython numpy.ipynb
+  215  ipython notebook
+  216  ipython notebook
+  217  cd
+  218  quit()
+  219  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/multiDlists-393620674.517.py.command ; exit;
+  220  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/multiDlists-393620698.767.py.command ; exit;
+  221  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/multiDlists-393620710.699.py.command ; exit;
+  222  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/multiDlists-393620726.869.py.command ; exit;
+  223  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/multiDlists-393620766.575.py.command ; exit;
+  224  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/multiDlists-393620786.137.py.command ; exit;
+  225  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/multiDlists-393620802.705.py.command ; exit;
+  226  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/multiDlists-393620843.107.py.command ; exit;
+  227  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/multiDlists-393620918.710.py.command ; exit;
+  228  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/multiDlists-393620968.799.py.command ; exit;
+  229  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/multiDlists-393620990.925.py.command ; exit;
+  230  /var/folders/r5/l8t2qxpj3m1_gnlf6ys7fwdm0000gq/T/Cleanup\ At\ Startup/latlon_DOCH-393710882.238.py.command ; exit;
+  231  python
+  232  compositioncalc2.py
+  233  python
+  234  compositioncalc2.py
+  235  compositioncalc2.py
+  236  python
+  237  multiDlist.py
+  238  multiDlists.py
+  239  chmod u+x multiDlists.py
+  240  cd scripts
+  241  ls
+  242  chmod u+x multiDlists.py
+  243  cd
+  244  multiDlists.py
+  245  multiDlists.py
+  246  multiDlists.py
+  247  multiDlists.py
+  248  cd Documents
+  249  cd Research/Biogreography_NA_Amphibia/
+  250  cd Research/Biogeography_NA_Amphibia/
+  251  latlon_DOCH.py
+  252  latlon_DOCH.py
+  253  latlon_DOCH.py
+  254  latlon_DOCH.py
+  255  latlon_DOCH.py
+  256  latlon_DOCH.py
+  257  cd
+  258  ls
+  259  cd Desktop
+  260  cd
+  261  cd Desktop
+  262  ls
+  263  cd src
+  264  ./configure
+  265  cd.
+  266  cd .
+  267  cd ..
+  268  ls
+  269  tar xzvf retriever-src.tar.gz
+  270  cd src
+  271  cd app
+  272  app.py
+  273  cd
+  274  which python
+  275  python
+  276  sudo python setup.py install
+  277  cd Desktop/src
+  278  sudo python setup.py install
+  279  sudo python setup.py install
+  280  chmod x+u src
+  281  chmod x+u setup.py
+  282  chmod u+x setup.py
+  283  sudo python setup.py install
+  284  retreiver
+  285  retriever
+  286  cd
+  287  wget https://github.com/weecology/retriever/raw/v1.4/retriever-src.tar.gz
+  288  latlon_DOCH.py
+  289  cd Decuments/Research/Biogeography_NA_Amphibia
+  290  cd Documents/Research/Biogeography_NA_Amphibia
+  291  latlon_DOCH.py
+  292  latlon_DOCH.py
+  293  latlon_DOCH.py
+  294  latlon_DOCH.py
+  295  latlon_DOCH.py
+  296  latlon_DOCH.py
+  297  latlon_DOCH.py
+  298  latlon_DOCH.py
+  299  latlon_DOCH.py
+  300  latlon_DOCH.py
+  301  latlon_DOCH.py
+  302  latlon_DOCH.py
+  303  latlon_DOCH.py
+  304  latlon_DOCH.py
+  305  latlon_DOCH.py
+  306  latlon_DOCH.py
+  307  latlon_DOCH.py
+  308  latlon_DOCH.py
+  309  latlon_DOCH.py
+  310  latlon_DOCH.py
+  311  latlon_DOCH.py
+  312  latlon_DOCH.py
+  313  latlon_DOCH.py
+  314  latlon_DOCH.py
+  315  latlon_DOCH.py
+  316  latlon_DOCH.py
+  317  latlon_DOCH.py
+  318  latlon_DOCH.py
+  319  latlon_DOCH.py
+  320  latlon_DOCH.py
+  321  latlon_DOCH.py
+  322  latlon_DOCH.py
+  323  latlon_DOCH.py
+  324  latlon_DOCH.py
+  325  python
+  326  dnacalc.py
+  327  ls
+  328  cd Docmuments
+  329  cd Documents
+  330  ls
+  331  cd
+  332  cd ~/pcfb/examples/spectra/
+  333  ls
+  334  less LEDBlue.txt 
+  335  tail LED*
+  336  head LED*
+  337  chmod u+x ~/scripts/filestoXYYY.py
+  338  chmod u+x ~/scripts/filestoXYYY.py
+  339  filestoXYYY.py
+  340  filestoXYYY.py first second "third and fourth"
+  341  filestoXYYY.py LED*.txt
+  342  filestoXYYY.py
+  343  filestoXYYY.py ~/scripts/*.py
+  344  filestoXYYY.py
+  345  filestoXYYY.py ~/scripts/*.py
+  346  filestoXYYY.py ~/scripts/*.txt
+  347  filestoXYYY.py LEDBlue.txt LEDRed.txt
+  348  ls
+  349  filestoXYYY.py ~/scripts/*.txt
+  350  filestoXYYY.py ~/scripts/*.txt
+  351  ls
+  352  filestoXYYY.py LED*.txt
+  353  '/Applications/GRASS-6.4.app/Contents/MacOS/grass.sh'; exit
+  354  cd Desktop
+  355  sudo python setup.py install
+  356  sudo python setup.py install PySAL-1.5.0.tar.gz
+  357  sudo python install PySAL-1.5.0.tar.gz
+  358  quit()
+  359  filestoXYYY.py LED*.txt
+  360  ls
+  361  cd pcfb
+  362  ls
+  363  cd examples
+  364  ls
+  365  cd
+  366  ls
+  367  cd scripts
+  368  ls
+  369  cd
+  370  cd pcfb
+  371  cd scripts
+  372  ls
+  373  cs..
+  374  cd..
+  375  cd ..
+  376  cd examples
+  377  ls
+  378  cd spectra
+  379  filestoXYYY.py LED*.txt
+  380  filestoXYYY.py LED*.txt
+  381  filestoXYYY.py LED*.txt
+  382  python help(re.sub)
+  383  python
+  384  cd
+  385  cd Desktop
+  386  tar -xzvf distribute-0.6.46.tar.gz
+  387  cd distribute-0.6.46
+  388  python setup.py install
+  389  cd
+  390  cd anaconda
+  391  cd /lib/python2.7/site-packages/
+  392  lib/python2.7/site-packages/
+  393  cd lib/python2.7/site-packages/
+  394  chmod x+u easy-install.pth
+  395  chmod u+x easy-install.pth
+  396  ls
+  397  cc
+  398  cd
+  399  curl -O http://python-distribute.org/distribute_setup.py
+  400  python distribute_setup.py
+  401  easy_install ipython[zmq,qtconsole,notebook,test]
+  402  easy_install ipython[qtconsole,notebook,test]
+  403  easy_install ipython
+  404  iptest
+  405  easy_install readline
+  406  easy_install nose
+  407  easy_install pexpect
+  408  easy_install ipython[zmq]
+  409  from IPython.external.mathjax import install_mathjax
+  410  ipython notebook
+  411  sudo port
+  412  sudo port install py27-matplotlib
+  413  sudo port
+  414  which python
+  415  which macports
+  416  which port
+  417  ipython notebook
+  418  ipython notebook
+  419  which port
+  420  sudo port selfupdate
+  421  sudo port upgrade outdated
+  422  ls -l /usr/local/bin
+  423  rm -rf ~/anaconda
+  424  sudo rm -rf ~/anaconda
+  425  which python
+  426  curl -o install_superpack.sh
+  427  curl -o install_superpack.sh https://raw.github.com/fonnesbeck/ScipySuperpack/master/install_superpack.sh
+  428  sh install_superpack.sh
+  429  which python
+  430  which ipython
+  431  ipython notebook
+  432  which python
+  433  which ipython
+  434  cat /usr/local/bin/ipython
+  435  which numpy
+  436  edit /usr/local/bin/ipython
+  437  which python
+  438  which ipython
+  439  cat /usr/local/bin/ipython
+  440  ipython notebook
+  441  echo $PATH
+  442  edit .bash_profile
+  443  which ipython
+  444  which python
+  445  cat /usr/local/bin/ipython
+  446  ipython
+  447  which ipython
+  448  ipython
+  449  ipython notebook
+  450  which python -V
+  451  python -V
+  452  ipython -V
+  453  ipython
+  454  pip uninstall ipython
+  455  sudo easy_install pip
+  456  pip uninstall ipython
+  457  which easy_install
+  458  sudo pip install ipython
+  459  which ipython
+  460  which python
+  461  ipython
+  462  ipython notebook
+  463  python2.7 setup.py install
+  464  easy_install readline
+  465  sudo easy_install readline
+  466  sudo pip uninstall ipython
+  467  sudo easy_install ipython
+  468  ipython -V
+  469  ipython notebook --pylab --inline
+  470  ipython notebook --pylab
+  471  sudo port install py27-numpy py27-scipy py27-matplotlib py27-ipython +notebook py27-pandas py27-sympy py27-nose
+  472  sudo pip install py27-numpy
+  473  pip search
+  474  pip search(numpy)
+  475  pip search numpy
+  476  sudo pip install numpy
+  477  python
+  478  ipython
+  479  ipython notebook
+  480  sudo pip install scipy matplotlib pandas sympy nose pymc
+  481  sudo pip install statsmodels
+  482  pip upgrade numpy
+  483  sudo pip install numpy --upgrade
+  484  '/Applications/GRASS-6.4.app/Contents/MacOS/grass.sh'; exit
+  485  cd Documents/Research
+  486  cd SpeciesDistributionModeling
+  487  ls
+  488  unzip All_AMPHIBIANS_Oct2010.zip
+  489  ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+  490  cd Desktop
+  491  brew doctor
+  492  /Developer/Library/uninstall-developer-folder
+  493  cd FileGDB_API
+  494  cp include 
+  495  cd
+  496  brew install gdal --enable-unsupported
+  497  import sys
+  498  print sys.version
+  499  python
+  500  git --version
+  501  python
+  502  pthon
+  503  pthon
+  504  python
+  505  cd Users/Dan/Documents/Computing/ESA2013
+  506  cd
+  507  cd ..
+  508  cd /Users/Dan/Documents/Computing/ESA2013
+  509  cd /Users/Dan/Documents/Computing/ESA2013/
+  510  cd /Users/Dan/Documents/Computing/Python/ESA2013/
+  511  cd /Users/Dan/Documents/Computing/
+  512  ls
+  513  Python
+  514  cd Python
+  515  ls
+  516  cd..
+  517  cd ..
+  518  ls
+  519  cd Python_ESA2013
+  520  pwd
+  521  python hello.py
+  522  ipython
+  523  ipython notebook
+  524  cd
+  525  clear
+  526  cd Documents/Computing/SoftwareCarpentry/ESA2013
+  527  ls
+  528  --help
+  529  help(cat)
+  530  help('cat')
+  531  cat data.txt
+  532  sort -k 3 -n data.txt
+  533  sort -k 3 -n data.txt > sorted_counts.txt
+  534  ls
+  535  mv data.txt data_greencanyon_2013.txt
+  536  ls
+  537  tail sorted_counts.txt
+  538  tail sorted_counts.txt 3
+  539  help tail
+  540  man -k tail
+  541  tail sorted_counts.txt(3)
+  542  --help tail
+  543  tail --help
+  544  head data_greencanyon_2013.txt 
+  545  head 3 data_greencanyon_2013.txt 
+  546  head -3 data_greencanyon_2013.txt 
+  547  sort data_greencanyon_2013.txt 3 > sorted_green.txt
+  548  sort -k 3 -ndata_greencanyon_2013.txt > sorted_green.txt
+  549  sort -k 3 -n data_greencanyon_2013.txt > sorted_green.txt
+  550  sorted_green.txt
+  551  print sorted_green.txt 
+  552  cat sorted_green.txt 
+  553  head sorted_green.txt 
+  554  head -1 sorted_green.txt 
+  555  sort -n -k 3 data_greencanyon_2013.txt | head -2
+  556  sort --help
+  557  sort -n -k 3 data_greencanyon_2013.txt | tail -1
+  558  tail data_greencanyon_2013.txt 
+  559  sort -n -k -r 3 data_greencanyon_2013.txt | head -1
+  560  sort -n -r 3 data_greencanyon_2013.txt | head -1
+  561  ls
+  562  Rscript
+  563  R
+  564  ls
+  565  Rscript species_count.R data_greencanyon_2013.txt 
+  566  Rscript species_counts.R data_greencanyon_2013.txt 
+  567  R CMD
+  568  PATH R
+  569  which PATH R
+  570  R CMD species_counts.R data_greencanyon_2013.txt 
+  571  Rscript species_counts.R data_greencanyon_2013.txt | sort -k 2
+  572  Rscript species_counts.R data_greencanyon_2013.txt | sort -k 1
+  573  Rscript species_counts.R data_greencanyon_2013.txt | sort 1
+  574  Rscript species_counts.R data_greencanyon_2013.txt | sort -k 1
+  575  cat --help
+  576  cat -help
+  577  history
+  578  history > my_awesome_analysis_esa_2013.txt
