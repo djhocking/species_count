@@ -1,3 +1,5 @@
+# This script is by Ted Hardt
+#
 # Count the number of individuals of each species in a data file
 #
 # Input file format:
