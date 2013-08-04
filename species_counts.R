@@ -15,7 +15,7 @@
 ### Read in command line arguments
 args <- commandArgs(trailingOnly = TRUE)
 ### Read in data from file set in the command line
-data <- read.table(args[1],sep=" ")
+data <- read.table(args[1],sep=",")
 ### give column names to the data, don't have have to do this, but makes it more meaningful in the code
 colnames(data) <- c("date","species","count")
 ### Sume the counts for each species with tapply()
