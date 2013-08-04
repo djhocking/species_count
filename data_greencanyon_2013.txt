@@ -1,7 +1,7 @@
 2013-03-21,bluejay,5
 2013-03-21,mallard,9
-2013-03-21,robin,1
-2013-03-20,robin,3
+2013-03-21,Turdus migratorius,1
+2013-03-20,Turdus migratorius,3
 2013-03-20,bluejay,2
 2013-03-20,mallard,5
 2013-03-19,eagle,1
