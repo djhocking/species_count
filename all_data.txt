@@ -1,5 +1,5 @@
-2013-03-17 sparrow 3
-2013-03-17 mallard 2
+2012-03-17 sparrow 31
+2012-03-17 mallard 2
 2013-03-16 robin 9
 2013-03-16 pheasant 5
 2013-03-15 grouse 3
